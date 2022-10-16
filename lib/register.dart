@@ -57,7 +57,7 @@ class _RegisterState extends State<Register> {
                       crossAxisAlignment: CrossAxisAlignment.center,
                       children: [
                         SizedBox(
-                          height: 81,
+                          height: 80,
                         ),
                         Text(
                           "Register Now",
